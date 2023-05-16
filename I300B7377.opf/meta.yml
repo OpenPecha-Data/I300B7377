@@ -1,0 +1,18 @@
+id: I300B7377
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:27:17.337018
+last_modified: 2023-01-04 11:27:17.337037
+source_metadata:
+  collections:
+  - Adeu Rinpoche Series
+  - Works of Tibetan Masters
+bases:
+  '1318':
+    title: Windhorse Practice of Tārā
+    base_file: 1318.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
